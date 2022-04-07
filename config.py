@@ -1,2 +1,2 @@
-token = '1446334616:AAGyBJNy10u_pcrxwEleHDmcaBNfqG179RU'
+token = 'yourtoken'
 cookies_path = 'insta.txt'
